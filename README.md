@@ -47,23 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/sections/header-telemetry.svg" width="640" alt="Telemetry: GitHub statistics">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Noir-Terminal&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=SYSTEM%20STATS&amp;bg_color=050505&amp;title_color=f2f2f2&amp;text_color=bdbdbd&amp;icon_color=f2f2f2&amp;border_color=262626&amp;border_radius=0&amp;hide_border=false" width="640" alt="GitHub stats">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Noir-Terminal&amp;background=050505&amp;border=262626&amp;stroke=262626&amp;ring=f2f2f2&amp;fire=f2f2f2&amp;currStreakNum=f2f2f2&amp;currStreakLabel=f2f2f2&amp;sideNums=bdbdbd&amp;sideLabels=8c8c8c&amp;dates=5c5c5c&amp;border_radius=0" width="640" alt="GitHub contribution streak">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noir-Terminal&amp;custom_title=ACTIVITY%20LOG&amp;bg_color=050505&amp;color=8c8c8c&amp;line=f2f2f2&amp;point=ffffff&amp;area=true&amp;area_color=f2f2f2&amp;title_color=f2f2f2&amp;hide_border=true&amp;radius=0" width="640" alt="Contribution activity graph">
-</p>
-
-<p align="center">
   <img src="assets/sections/header-connect.svg" width="640" alt="Connect">
   <br>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="assets/links/instagram.svg" width="120" alt="Instagram"></a>
-  <a href="https://youtube.com/@YOUR_YOUTUBE"><img src="assets/links/youtube.svg" width="120" alt="YouTube"></a>
-  <a href="https://x.com/YOUR_X"><img src="assets/links/x.svg" width="120" alt="X"></a>
+  <a href="https://instagram.com/noir.arh"><img src="assets/links/instagram.svg" width="120" alt="Instagram"></a>
   <a href="https://github.com/Noir-Terminal"><img src="assets/links/github.svg" width="120" alt="GitHub"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="assets/links/email.svg" width="120" alt="Email"></a>
+  <a href="mailto:topiwalaarham@gmail.com"><img src="assets/links/email.svg" width="120" alt="Email"></a>
 </p>
 
 <p align="center">
