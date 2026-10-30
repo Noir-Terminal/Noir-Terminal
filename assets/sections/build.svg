@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="544" viewBox="0 0 640 544" role="img" aria-label="What we build: web development, UI/UX, cybersecurity, code, tech and learning">
+<title>What we build: web development, UI/UX, cybersecurity, code, tech and learning</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+.cur{animation:cur 1.1s steps(1) infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.ln{animation:ln .01s both}
+@keyframes cur{50%{fill-opacity:0}}
+@keyframes blink{50%{opacity:0}}
+@keyframes ln{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.cur,.blink,.ln{animation:none}}
+</style>
+<rect x="0.5" y="40" width="639" height="503.5" fill="#050505" stroke="#262626"/>
+<g transform="translate(0 0)"><rect x="0.5" y="0.5" width="639" height="39" fill="#0a0a0a" stroke="#262626"/><rect x="0.5" y="0.5" width="40" height="39" fill="#f2f2f2"/><text x="20.5" y="25" font-size="14" fill="#050505" text-anchor="middle" font-weight="bold">02</text><text x="58" y="25" font-size="13" fill="#f2f2f2" letter-spacing="3" font-weight="bold">WHAT WE BUILD</text><text x="624" y="25" font-size="12" fill="#5c5c5c" text-anchor="end">$ ls ./focus</text></g>
+<text x="24" y="87" font-size="12" fill="#5c5c5c">01</text>
+<rect x="60.5" y="60.5" width="43" height="43" fill="#0a0a0a" stroke="#333"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(70 70) scale(1.0000)"><path d="M8 6L2 12L8 18M16 6L22 12L16 18M14 4L10 20"/></g>
+<text x="124" y="74" font-size="15" fill="#f2f2f2" letter-spacing="3" font-weight="bold">WEB DEVELOPMENT</text>
+<text x="616" y="74" font-size="11" fill="#444" text-anchor="end" letter-spacing="1">/web</text>
+<text x="124" y="95" font-size="13" fill="#8c8c8c">Modern frontend development, responsive</text>
+<text x="124" y="112" font-size="13" fill="#8c8c8c">interfaces and interactive experiences.</text>
+<path d="M0.5 124H639.5" stroke="#1a1a1a"/>
+<text x="24" y="171" font-size="12" fill="#5c5c5c">02</text>
+<rect x="60.5" y="144.5" width="43" height="43" fill="#0a0a0a" stroke="#333"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(70 154) scale(1.0000)"><rect x="3" y="4" width="18" height="16"/><path d="M3 9H21M9 9V20"/></g>
+<text x="124" y="158" font-size="15" fill="#f2f2f2" letter-spacing="3" font-weight="bold">UI / UX</text>
+<text x="616" y="158" font-size="11" fill="#444" text-anchor="end" letter-spacing="1">/interface</text>
+<text x="124" y="179" font-size="13" fill="#8c8c8c">Minimal, experimental and visually</text>
+<text x="124" y="196" font-size="13" fill="#8c8c8c">interesting interfaces.</text>
+<path d="M0.5 208H639.5" stroke="#1a1a1a"/>
+<text x="24" y="255" font-size="12" fill="#5c5c5c">03</text>
+<rect x="60.5" y="228.5" width="43" height="43" fill="#0a0a0a" stroke="#333"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(70 238) scale(1.0000)"><path d="M12 3L20 6V12C20 16.5 16.5 20 12 21C7.5 20 4 16.5 4 12V6Z"/><path d="M8.5 12L11 14.5L15.5 9.5"/></g>
+<text x="124" y="242" font-size="15" fill="#f2f2f2" letter-spacing="3" font-weight="bold">CYBERSECURITY</text>
+<text x="616" y="242" font-size="11" fill="#444" text-anchor="end" letter-spacing="1">/security</text>
+<text x="124" y="263" font-size="13" fill="#8c8c8c">Security awareness, concepts, tools</text>
+<text x="124" y="280" font-size="13" fill="#8c8c8c">and defensive learning.</text>
+<path d="M0.5 292H639.5" stroke="#1a1a1a"/>
+<text x="24" y="339" font-size="12" fill="#5c5c5c">04</text>
+<rect x="60.5" y="312.5" width="43" height="43" fill="#0a0a0a" stroke="#333"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(70 322) scale(1.0000)"><path d="M9 4C6.5 4 6.5 6 6.5 8V10C6.5 11.5 5.5 12 4 12C5.5 12 6.5 12.5 6.5 14V16C6.5 18 6.5 20 9 20M15 4C17.5 4 17.5 6 17.5 8V10C17.5 11.5 18.5 12 20 12C18.5 12 17.5 12.5 17.5 14V16C17.5 18 17.5 20 15 20"/></g>
+<text x="124" y="326" font-size="15" fill="#f2f2f2" letter-spacing="3" font-weight="bold">CODE</text>
+<text x="616" y="326" font-size="11" fill="#444" text-anchor="end" letter-spacing="1">/code</text>
+<text x="124" y="347" font-size="13" fill="#8c8c8c">Programming concepts, shortcuts, experiments</text>
+<text x="124" y="364" font-size="13" fill="#8c8c8c">and developer workflows.</text>
+<path d="M0.5 376H639.5" stroke="#1a1a1a"/>
+<text x="24" y="423" font-size="12" fill="#5c5c5c">05</text>
+<rect x="60.5" y="396.5" width="43" height="43" fill="#0a0a0a" stroke="#333"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(70 406) scale(1.0000)"><rect x="7" y="7" width="10" height="10"/><path d="M10 3V7M14 3V7M10 17V21M14 17V21M3 10H7M3 14H7M17 10H21M17 14H21"/></g>
+<text x="124" y="410" font-size="15" fill="#f2f2f2" letter-spacing="3" font-weight="bold">TECH</text>
+<text x="616" y="410" font-size="11" fill="#444" text-anchor="end" letter-spacing="1">/tech</text>
+<text x="124" y="431" font-size="13" fill="#8c8c8c">Interesting tools, AI, emerging technologies</text>
+<text x="124" y="448" font-size="13" fill="#8c8c8c">and useful resources.</text>
+<path d="M0.5 460H639.5" stroke="#1a1a1a"/>
+<text x="24" y="507" font-size="12" fill="#5c5c5c">06</text>
+<rect x="60.5" y="480.5" width="43" height="43" fill="#0a0a0a" stroke="#333"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(70 490) scale(1.0000)"><path d="M12 6C10 4.5 6 4 3 5V19C6 18 10 18.5 12 20C14 18.5 18 18 21 19V5C18 4 14 4.5 12 6Z"/><path d="M12 6V20"/></g>
+<text x="124" y="494" font-size="15" fill="#f2f2f2" letter-spacing="3" font-weight="bold">LEARNING</text>
+<text x="616" y="494" font-size="11" fill="#444" text-anchor="end" letter-spacing="1">/learn</text>
+<text x="124" y="515" font-size="13" fill="#8c8c8c">Things worth learning, practical explanations</text>
+<text x="124" y="532" font-size="13" fill="#8c8c8c">and developer knowledge.</text>
+</svg>

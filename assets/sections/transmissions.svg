@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="282" viewBox="0 0 640 282" role="img" aria-label="Short-form content: frontend, UI/UX, security, code, tech and learning reels">
+<title>Short-form content: frontend, UI/UX, security, code, tech and learning reels</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+.cur{animation:cur 1.1s steps(1) infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.ln{animation:ln .01s both}
+@keyframes cur{50%{fill-opacity:0}}
+@keyframes blink{50%{opacity:0}}
+@keyframes ln{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.cur,.blink,.ln{animation:none}}
+</style>
+<rect x="0.5" y="40" width="639" height="241.5" fill="#050505" stroke="#262626"/>
+<g transform="translate(0 0)"><rect x="0.5" y="0.5" width="639" height="39" fill="#0a0a0a" stroke="#262626"/><rect x="0.5" y="0.5" width="40" height="39" fill="#f2f2f2"/><text x="20.5" y="25" font-size="14" fill="#050505" text-anchor="middle" font-weight="bold">06</text><text x="58" y="25" font-size="13" fill="#f2f2f2" letter-spacing="3" font-weight="bold">TRANSMISSIONS</text><text x="624" y="25" font-size="12" fill="#5c5c5c" text-anchor="end">$ ./broadcast</text></g>
+<rect x="14.5" y="56.5" width="91" height="171" fill="#080808" stroke="#2a2a2a"/>
+<text x="22.0" y="74" font-size="10" fill="#5c5c5c" letter-spacing="1">R01</text>
+<path d="M88.0 66L96.0 70.5L88.0 75Z" fill="none" stroke="#8c8c8c"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(44.0 110) scale(1.3333)"><path d="M8 6L2 12L8 18M16 6L22 12L16 18M14 4L10 20"/></g>
+<path d="M22.0 183.5H98.0" stroke="#1c1c1c"/>
+<text x="60.0" y="202" font-size="11" fill="#bdbdbd" text-anchor="middle" letter-spacing="1">FRONTEND</text>
+<rect x="22.0" y="214" width="76" height="2" fill="#1c1c1c"/>
+<rect x="22.0" y="214" width="61" height="2" fill="#cfcfcf"/>
+<rect x="118.5" y="56.5" width="91" height="171" fill="#080808" stroke="#2a2a2a"/>
+<text x="126.0" y="74" font-size="10" fill="#5c5c5c" letter-spacing="1">R02</text>
+<path d="M192.0 66L200.0 70.5L192.0 75Z" fill="none" stroke="#8c8c8c"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(148.0 110) scale(1.3333)"><rect x="3" y="4" width="18" height="16"/><path d="M3 9H21M9 9V20"/></g>
+<path d="M126.0 183.5H202.0" stroke="#1c1c1c"/>
+<text x="164.0" y="202" font-size="11" fill="#bdbdbd" text-anchor="middle" letter-spacing="1">UI / UX</text>
+<rect x="126.0" y="214" width="76" height="2" fill="#1c1c1c"/>
+<rect x="126.0" y="214" width="27" height="2" fill="#cfcfcf"/>
+<rect x="222.5" y="56.5" width="91" height="171" fill="#080808" stroke="#2a2a2a"/>
+<text x="230.0" y="74" font-size="10" fill="#5c5c5c" letter-spacing="1">R03</text>
+<path d="M296.0 66L304.0 70.5L296.0 75Z" fill="none" stroke="#8c8c8c"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(252.0 110) scale(1.3333)"><path d="M12 3L20 6V12C20 16.5 16.5 20 12 21C7.5 20 4 16.5 4 12V6Z"/><path d="M8.5 12L11 14.5L15.5 9.5"/></g>
+<path d="M230.0 183.5H306.0" stroke="#1c1c1c"/>
+<text x="268.0" y="202" font-size="11" fill="#bdbdbd" text-anchor="middle" letter-spacing="1">SECURITY</text>
+<rect x="230.0" y="214" width="76" height="2" fill="#1c1c1c"/>
+<rect x="230.0" y="214" width="46" height="2" fill="#cfcfcf"/>
+<rect x="326.5" y="56.5" width="91" height="171" fill="#080808" stroke="#2a2a2a"/>
+<text x="334.0" y="74" font-size="10" fill="#5c5c5c" letter-spacing="1">R04</text>
+<path d="M400.0 66L408.0 70.5L400.0 75Z" fill="none" stroke="#8c8c8c"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(356.0 110) scale(1.3333)"><path d="M9 4C6.5 4 6.5 6 6.5 8V10C6.5 11.5 5.5 12 4 12C5.5 12 6.5 12.5 6.5 14V16C6.5 18 6.5 20 9 20M15 4C17.5 4 17.5 6 17.5 8V10C17.5 11.5 18.5 12 20 12C18.5 12 17.5 12.5 17.5 14V16C17.5 18 17.5 20 15 20"/></g>
+<path d="M334.0 183.5H410.0" stroke="#1c1c1c"/>
+<text x="372.0" y="202" font-size="11" fill="#bdbdbd" text-anchor="middle" letter-spacing="1">CODE</text>
+<rect x="334.0" y="214" width="76" height="2" fill="#1c1c1c"/>
+<rect x="334.0" y="214" width="68" height="2" fill="#cfcfcf"/>
+<rect x="430.5" y="56.5" width="91" height="171" fill="#080808" stroke="#2a2a2a"/>
+<text x="438.0" y="74" font-size="10" fill="#5c5c5c" letter-spacing="1">R05</text>
+<path d="M504.0 66L512.0 70.5L504.0 75Z" fill="none" stroke="#8c8c8c"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(460.0 110) scale(1.3333)"><rect x="7" y="7" width="10" height="10"/><path d="M10 3V7M14 3V7M10 17V21M14 17V21M3 10H7M3 14H7M17 10H21M17 14H21"/></g>
+<path d="M438.0 183.5H514.0" stroke="#1c1c1c"/>
+<text x="476.0" y="202" font-size="11" fill="#bdbdbd" text-anchor="middle" letter-spacing="1">TECH</text>
+<rect x="438.0" y="214" width="76" height="2" fill="#1c1c1c"/>
+<rect x="438.0" y="214" width="34" height="2" fill="#cfcfcf"/>
+<rect x="534.5" y="56.5" width="91" height="171" fill="#080808" stroke="#2a2a2a"/>
+<text x="542.0" y="74" font-size="10" fill="#5c5c5c" letter-spacing="1">R06</text>
+<path d="M608.0 66L616.0 70.5L608.0 75Z" fill="none" stroke="#8c8c8c"/>
+<g fill="none" stroke="#e8e8e8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter" transform="translate(564.0 110) scale(1.3333)"><path d="M12 6C10 4.5 6 4 3 5V19C6 18 10 18.5 12 20C14 18.5 18 18 21 19V5C18 4 14 4.5 12 6Z"/><path d="M12 6V20"/></g>
+<path d="M542.0 183.5H618.0" stroke="#1c1c1c"/>
+<text x="580.0" y="202" font-size="11" fill="#bdbdbd" text-anchor="middle" letter-spacing="1">LEARNING</text>
+<rect x="542.0" y="214" width="76" height="2" fill="#1c1c1c"/>
+<rect x="542.0" y="214" width="53" height="2" fill="#cfcfcf"/>
+<text x="24" y="256" font-size="11" fill="#5c5c5c" letter-spacing="2">FORMAT: SHORT-FORM / 9:16</text>
+<text x="616" y="256" font-size="11" fill="#8c8c8c" text-anchor="end" letter-spacing="2">[ SIGNAL INCOMING ]</text>
+</svg>
